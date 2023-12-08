@@ -1,0 +1,12 @@
+{
+    "description": "Script and data supporting a Brassica network analysis manuscript submitted to Applications in Plant Sciences.", 
+    "license": "CC0", 
+    "title": "Polyploidy Networks", 
+    "creators": [
+        {
+            "orcid": "0000-0001-7591-5035", 
+            "affiliation": "National Park Service", 
+            "name": "Robert L Baker"
+        }
+    ]
+}
